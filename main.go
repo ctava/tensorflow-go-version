@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("tf.Version = ", tf.Version)
+	fmt.Println("tf.Version = ", tf.Version())
 }
